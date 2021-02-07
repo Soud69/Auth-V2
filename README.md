@@ -10,7 +10,8 @@ Simple Python Auth (V.2)
 3) راح تجيك المعلومات مشفره كذا: HWID|USER|PASS
 4) ضع المعلومات المشفره الى رابط العضويه سواء كان بيست بن او غيره
 
-**EN** 1) Ask the Customer to give you the id (From [Auth.py](https://github.com/Soud69/Auth-V2/blob/main/Source/Auth.py))
+**EN** 
+1) Ask the Customer to give you the id (From [Auth.py](https://github.com/Soud69/Auth-V2/blob/main/Source/Auth.py))
 2) Open [Dev.py](https://github.com/Soud69/Auth-V2/blob/main/Source/Dev.py) and Encrypt User info
 3) You will get print like: HWID|USER|PASS
 4) Add to Your Link Pastebin or Whatever
